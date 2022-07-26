@@ -1,4 +1,4 @@
-package eu.specsolutions.bddcourse.geekpizza.controller_tests;
+package eu.specsolutions.bddcourse.specoverflow;
 
 import org.junit.platform.suite.api.ConfigurationParameter;
 import org.junit.platform.suite.api.IncludeEngines;
@@ -9,7 +9,7 @@ import static io.cucumber.core.options.Constants.GLUE_PROPERTY_NAME;
 
 @Suite
 @IncludeEngines("cucumber")
-@SelectClasspathResource("eu/specsolutions/bddcourse/geekpizza/controller_tests")
-@ConfigurationParameter(key = GLUE_PROPERTY_NAME, value = "eu.specsolutions.bddcourse.geekpizza.controller_tests")
+@SelectClasspathResource("eu/specsolutions/bddcourse/specoverflow")
+@ConfigurationParameter(key = GLUE_PROPERTY_NAME, value = "eu.specsolutions.bddcourse.specoverflow")
 public class CucumberControllerTest {
 }

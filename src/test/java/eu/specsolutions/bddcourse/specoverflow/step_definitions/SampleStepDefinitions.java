@@ -1,6 +1,6 @@
-package eu.specsolutions.bddcourse.geekpizza.controller_tests.step_definitions;
+package eu.specsolutions.bddcourse.specoverflow.step_definitions;
 
-import eu.specsolutions.bddcourse.geekpizza.controller_tests.support.BrowserContext;
+import eu.specsolutions.bddcourse.specoverflow.support.BrowserContext;
 import io.cucumber.java.en.When;
 import org.springframework.beans.factory.annotation.Autowired;
 

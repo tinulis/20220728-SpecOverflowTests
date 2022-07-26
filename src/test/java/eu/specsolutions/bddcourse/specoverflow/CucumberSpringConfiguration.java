@@ -1,4 +1,4 @@
-package eu.specsolutions.bddcourse.geekpizza.controller_tests;
+package eu.specsolutions.bddcourse.specoverflow;
 
 import io.cucumber.spring.CucumberContextConfiguration;
 import org.springframework.test.context.ContextConfiguration;

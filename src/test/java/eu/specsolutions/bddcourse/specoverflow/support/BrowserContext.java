@@ -1,4 +1,4 @@
-package eu.specsolutions.bddcourse.geekpizza.controller_tests.support;
+package eu.specsolutions.bddcourse.specoverflow.support;
 
 import io.cucumber.spring.ScenarioScope;
 import org.springframework.stereotype.Component;

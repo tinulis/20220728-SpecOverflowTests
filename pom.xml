@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
   <groupId>eu.specsolutions.bddcourse</groupId>
-  <artifactId>geekpizza</artifactId>
+  <artifactId>specoverflow</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-  <name>geekpizza</name>
+  <name>specoverflow</name>
   <description>BDD with Cucumber Java course sample application</description>
 
 	<parent>
