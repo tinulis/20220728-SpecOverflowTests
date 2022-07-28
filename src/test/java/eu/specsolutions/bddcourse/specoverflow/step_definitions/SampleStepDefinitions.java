@@ -11,5 +11,8 @@ public class SampleStepDefinitions {
 
     @When("some action is performed using the browser")
     public void someActionIsPerformedUsingTheBrowser() {
+
+        browserContext.getDriver().get(browserContext.getBaseUrl() + "Questions");
+        browserContext.pauseForDebug();
     }
 }
