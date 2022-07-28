@@ -11,5 +11,5 @@ import static io.cucumber.core.options.Constants.GLUE_PROPERTY_NAME;
 @IncludeEngines("cucumber")
 @SelectClasspathResource("eu/specsolutions/bddcourse/specoverflow")
 @ConfigurationParameter(key = GLUE_PROPERTY_NAME, value = "eu.specsolutions.bddcourse.specoverflow")
-public class CucumberControllerTest {
+public class CucumberTest {
 }
