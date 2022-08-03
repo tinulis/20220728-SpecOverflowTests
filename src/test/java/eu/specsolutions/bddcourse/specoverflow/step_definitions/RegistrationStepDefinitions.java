@@ -4,7 +4,7 @@ import eu.specsolutions.bddcourse.specoverflow.support.BrowserContext;
 import io.cucumber.java.en.When;
 import org.springframework.beans.factory.annotation.Autowired;
 
-public class SampleStepDefinitions {
+public class RegistrationStepDefinitions {
 
     @Autowired
     private BrowserContext browserContext;
