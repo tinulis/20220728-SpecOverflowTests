@@ -8,5 +8,5 @@ import org.springframework.test.context.ContextConfiguration;
 @CucumberContextConfiguration
 @ContextConfiguration(locations= "classpath:cucumber-spring.xml")
 public class CucumberSpringConfiguration {
-    WebDriver driver=new ChromeDriver();
+
 }
